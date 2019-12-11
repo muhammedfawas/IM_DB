@@ -1,0 +1,44 @@
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-weight: normal;
+    background: rgb(230, 202, 202);
+    padding: 0px;
+    margin: 0px;
+   
+
+}
+#template{
+    
+    width:100%;
+    max-width: 1140px;
+    margin:0 auto;
+
+}
+#movies{
+    width: 24%;
+  
+    margin:12px,5px;
+    background: white;
+    
+    float:left;
+    text-align: center;
+    border: solid 1px #ccc;
+    padding: 10px;
+    height: 420px;
+}
+#movies h1{
+    font-size: 15px;
+    border-bottom: 2px solid #ccc;
+    padding:14px;
+    font-weight: normal;
+}
+img{
+    border:1px solid #eee;
+    height:180px;
+    width: 100px;
+    padding: 10px;
+}
+.container{
+    margin-top: 10px;
+}
